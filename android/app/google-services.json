@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267498595555",
+    "project_id": "carenet-ad768",
+    "storage_bucket": "carenet-ad768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267498595555:android:6700cb3de48ad0cf10d1d6",
+        "android_client_info": {
+          "package_name": "com.example.carenet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267498595555-doa45jqi9clo0kg0sf0m5gbgrr2bghaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carenet",
+            "certificate_hash": "2e98095395f6033b53306a729b9ecadfad1b98bd"
+          }
+        },
+        {
+          "client_id": "267498595555-cs36v8n8hkn8sipckk8abddjv9ki7cmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC61bScCzQ--Hgkf3uey8VGZctzDVG9GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267498595555-cs36v8n8hkn8sipckk8abddjv9ki7cmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
